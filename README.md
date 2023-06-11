@@ -26,7 +26,7 @@ Bu proje, Tarık Bulut tarafından Fırat Üniversitesi Yazılım Mühendisliği
 # Dökümanlar
 Bu projenin gerekli dökümantasyonuna <a href="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Zaman%C3%87izelgesi.pdf" target="_blank" onclick="window.open('https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Zaman%C3%87izelgesi.pdf'); return false;">buraya tıklayarak</a> erişebilirsiniz
 ### Oyun içerisinden görüntüler
-<img src="https://github.com/Estaed/Saklanan_Tavsan/blob/main/Assets/Graphics/ss1.PNG" alt="Ana Menü Ekran Görüntüsü" width="200"> 
-<img src="https://github.com/Estaed/Saklanan_Tavsan/blob/main/Assets/Graphics/ss2.PNG" alt="Hikaye Ekran Görüntüsü" width="200"> 
-<img src="https://github.com/Estaed/Saklanan_Tavsan/blob/main/Assets/Graphics/ss3.PNG" alt="Doğru/Yanlış Ekran Görüntüsü" width="200"> 
-<img src="https://github.com/Estaed/Saklanan_Tavsan/blob/main/Assets/Graphics/ss4.PNG" alt="Oyun Sonu Ekran Görüntüsü" width="200"> 
+<img src="https://github.com/Estaed/Saklanan_Tavsan/blob/main/Assets/Graphics/ss1.PNG" alt="Ana Menü Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Saklanan_Tavsan/blob/main/Assets/Graphics/ss2.PNG" alt="Hikaye Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Saklanan_Tavsan/blob/main/Assets/Graphics/ss3.PNG" alt="Doğru/Yanlış Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Saklanan_Tavsan/blob/main/Assets/Graphics/ss4.PNG" alt="Oyun Sonu Ekran Görüntüsü" width="200"> 
+ 
+
+
