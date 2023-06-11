@@ -22,7 +22,7 @@ Bu proje, Tarık Bulut tarafından Fırat Üniversitesi Yazılım Mühendisliği
 ## Prototip
 <a href="https://drive.google.com/file/d/14FUElfgMsQO5yF-Owo7ObPUdtqGg5bX2/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/14FUElfgMsQO5yF-Owo7ObPUdtqGg5bX2/view?usp=sharing'); return false;">Prototipi indirmek için tıklayın</a>
 ## Video
-<a href="https://drive.google.com/file/d/1q31BpFUJ02M2CgMEDjsTiluWnw7qifyd/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/1q31BpFUJ02M2CgMEDjsTiluWnw7qifyd/view?usp=sharing'); return false;">Tanıtım için tıklayın</a> 
+<a href="https://drive.google.com/file/d/10EQsEVHeE-9ps97who6dKgrmdQY_GHs9/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/10EQsEVHeE-9ps97who6dKgrmdQY_GHs9/view?usp=sharing'); return false;">Tanıtım için tıklayın</a> 
 # Dökümanlar
 Bu projenin gerekli dökümantasyonuna <a href="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Zaman%C3%87izelgesi.pdf" target="_blank" onclick="window.open('https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Zaman%C3%87izelgesi.pdf'); return false;">buraya tıklayarak</a> erişebilirsiniz
 ### Oyun içerisinden görüntüler
