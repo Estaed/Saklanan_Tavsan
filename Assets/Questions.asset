@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62f974ecbbec30842a9943dc21114646, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: 
+  currentQuestion: 1
+  questionsList:
+  - question: "18 tav\u015Fan ve 6 delik varken hi\xE7bir tav\u015Fan geride kalmaz"
+    isTrue: 1
+    questioned: 0
+  - question: "7 tav\u015Fan ve 2 delik varken 2 tav\u015Fan geride kal\u0131r"
+    isTrue: 0
+    questioned: 0
+  - question: "13 tav\u015Fan ve 1 delik varken 9 tav\u015Fan geride kal\u0131r"
+    isTrue: 0
+    questioned: 0
+  - question: "14 tav\u015Faan ve 4 delik varken 2 tav\u015Fan geride kal\u0131r"
+    isTrue: 1
+    questioned: 0
+  - question: "3 tav\u015Fan ve 1 delik varken 6 tav\u015Fan geride kal\u0131r"
+    isTrue: 1
+    questioned: 0
+  - question: "20 tav\u015Fan ve 6 delik varken 4 tav\u015Fan geride kal\u0131r"
+    isTrue: 0
+    questioned: 0
